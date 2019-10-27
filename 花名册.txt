@@ -343,3 +343,4 @@ rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
 阿狸先森        前端攻城狮
+desi          设计人生
